@@ -1,0 +1,8 @@
+
+<resources>
+    <style name="Theme.Notes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#365D8D</item>
+        <item name="colorPrimaryVariant">#24456E</item>
+        <item name="colorSecondary">#6C8EBF</item>
+    </style>
+</resources>
